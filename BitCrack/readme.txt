@@ -1,0 +1,1 @@
+Place the clBitCrack.exe or the cuBitCrack.exe in this folder.

@@ -1,0 +1,486 @@
+{
+    "puzzles": [
+        {
+            "puzzleIndex": 0,
+            "keyRange": "12F358F4FEA4FB09BB3F62450D65403BD518B9D1E6EF6AC980A1339000000000:12F358F4FEA4FB09BB3F62450D65403BD518B9D1E6EF6AC980A13391B0000000",
+            "privateKey": "",
+            "address": "1TESTQ56gDg89W7YboEr4gaD8b1EfwDZn"
+        },
+        {
+            
+            "puzzleIndex": 1,
+            "keyRange": "1:1",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000001",
+            "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH"
+        },
+        {
+            "puzzleIndex": 2,
+            "keyRange": "2:3",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000003",
+            "address": "1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb"
+        },
+        {
+            "puzzleIndex": 3,
+            "keyRange": "4:7",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000007",
+            "address": "19ZewH8Kk1PDbSNdJ97FP4EiCjTRaZMZQA"
+        },
+        {
+            "puzzleIndex": 4,
+            "keyRange": "8:f",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000008",
+            "address": "1EhqbyUMvvs7BfL8goY6qcPbD6YKfPqb7e"
+        },
+        {
+            "puzzleIndex": 5,
+            "keyRange": "10:1f",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000015",
+            "address": "1E6NuFjCi27W5zoXg8TRdcSRq84zJeBW3k"
+        },
+        {
+            "puzzleIndex": 6,
+            "keyRange": "20:3f",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000031",
+            "address": "1PitScNLyp2HCygzadCh7FveTnfmpPbfp8"
+        },
+        {
+            "puzzleIndex": 7,
+            "keyRange": "40:7f",
+            "privateKey": "000000000000000000000000000000000000000000000000000000000000004c",
+            "address": "1McVt1vMtCC7yn5b9wgX1833yCcLXzueeC"
+        },
+        {
+            "puzzleIndex": 8,
+            "keyRange": "80:ff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000000000000e0",
+            "address": "1M92tSqNmQLYw33fuBvjmeadirh1ysMBxK"
+        },
+        {
+            "puzzleIndex": 9,
+            "keyRange": "100:1ff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000000000001d3",
+            "address": "1CQFwcjw1dwhtkVWBttNLDtqL7ivBonGPV"
+        },
+        {
+            "puzzleIndex": 10,
+            "keyRange": "200:3ff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000202",
+            "address": "1LeBZP5QCwwgXRtmVUvTVrraqPUokyLHqe"
+        },
+        {
+            "puzzleIndex": 11,
+            "keyRange": "400:7ff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000483",
+            "address": "1PgQVLmst3Z314JrQn5TNiys8Hc38TcXJu"
+        },
+        {
+            "puzzleIndex": 12,
+            "keyRange": "800:fff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000000a7b",
+            "address": "1DBaumZxUkM4qMQRt2LVWyFJq5kDtSZQot"
+        },
+        {
+            "puzzleIndex": 13,
+            "keyRange": "1000:1fff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000001460",
+            "address": "1Pie8JkxBT6MGPz9Nvi3fsPkr2D8q3GBc1"
+        },
+        {
+            "puzzleIndex": 14,
+            "keyRange": "2000:3fff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000002930",
+            "address": "1ErZWg5cFCe4Vw5BzgfzB74VNLaXEiEkhk"
+        },
+        {
+            "puzzleIndex": 15,
+            "keyRange": "4000:7fff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000000000068f3",
+            "address": "1QCbW9HWnwQWiQqVo5exhAnmfqKRrCRsvW"
+        },
+        {
+            "puzzleIndex": 16,
+            "keyRange": "8000:ffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000000000c936",
+            "address": "1BDyrQ6WoF8VN3g9SAS1iKZcPzFfnDVieY"
+        },
+        {
+            "puzzleIndex": 17,
+            "keyRange": "10000:1ffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000000001764f",
+            "address": "1HduPEXZRdG26SUT5Yk83mLkPyjnZuJ7Bm"
+        },
+        {
+            "puzzleIndex": 18,
+            "keyRange": "20000:3ffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000000003080d",
+            "address": "1GnNTmTVLZiqQfLbAdp9DVdicEnB5GoERE"
+        },
+        {
+            "puzzleIndex": 19,
+            "keyRange": "40000:7ffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000000005749f",
+            "address": "1NWmZRpHH4XSPwsW6dsS3nrNWfL1yrJj4w"
+        },
+        {
+            "puzzleIndex": 20,
+            "keyRange": "80000:fffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000000000d2c55",
+            "address": "1HsMJxNiV7TLxmoF6uJNkydxPFDog4NQum"
+        },
+        {
+            "puzzleIndex": 21,
+            "keyRange": "100000:1fffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000000001ba534",
+            "address": "14oFNXucftsHiUMY8uctg6N487riuyXs4h"
+        },
+        {
+            "puzzleIndex": 22,
+            "keyRange": "200000:3fffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000000002de40f",
+            "address": "1CfZWK1QTQE3eS9qn61dQjV89KDjZzfNcv"
+        },
+        {
+            "puzzleIndex": 23,
+            "keyRange": "400000:7fffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000556e52",
+            "address": "1L2GM8eE7mJWLdo3HZS6su1832NX2txaac"
+        },
+        {
+            "puzzleIndex": 24,
+            "keyRange": "800000:ffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000000dc2a04",
+            "address": "1rSnXMr63jdCuegJFuidJqWxUPV7AtUf7"
+        },
+        {
+            "puzzleIndex": 25,
+            "keyRange": "1000000:1ffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000001fa5ee5",
+            "address": "15JhYXn6Mx3oF4Y7PcTAv2wVVAuCFFQNiP"
+        },
+        {
+            "puzzleIndex": 26,
+            "keyRange": "2000000:3ffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000000340326e",
+            "address": "1JVnST957hGztonaWK6FougdtjxzHzRMMg"
+        },
+        {
+            "puzzleIndex": 27,
+            "keyRange": "4000000:7ffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000006ac3875",
+            "address": "128z5d7nN7PkCuX5qoA4Ys6pmxUYnEy86k"
+        },
+        {
+            "puzzleIndex": 28,
+            "keyRange": "8000000:fffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000000d916ce8",
+            "address": "12jbtzBb54r97TCwW3G1gCFoumpckRAPdY"
+        },
+        {
+            "puzzleIndex": 29,
+            "keyRange": "10000000:1fffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000000017e2551e",
+            "address": "19EEC52krRUK1RkUAEZmQdjTyHT7Gp1TYT"
+        },
+        {
+            "puzzleIndex": 30,
+            "keyRange": "20000000:3fffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000003d94cd64",
+            "address": "1LHtnpd8nU5VHEMkG2TMYYNUjjLc992bps"
+        },
+        {
+            "puzzleIndex": 31,
+            "keyRange": "40000000:7fffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000007d4fe747",
+            "address": "1LhE6sCTuGae42Axu1L1ZB7L96yi9irEBE"
+        },
+        {
+            "puzzleIndex": 32,
+            "keyRange": "80000000:ffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000000b862a62e",
+            "address": "1FRoHA9xewq7DjrZ1psWJVeTer8gHRqEvR"
+        },
+        {
+            "puzzleIndex": 33,
+            "keyRange": "100000000:1ffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000001a96ca8d8",
+            "address": "187swFMjz1G54ycVU56B7jZFHFTNVQFDiu"
+        },
+        {
+            "puzzleIndex": 34,
+            "keyRange": "200000000:3ffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000034a65911d",
+            "address": "1PWABE7oUahG2AFFQhhvViQovnCr4rEv7Q"
+        },
+        {
+            "puzzleIndex": 35,
+            "keyRange": "400000000:7ffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000004aed21170",
+            "address": "1PWCx5fovoEaoBowAvF5k91m2Xat9bMgwb"
+        },
+        {
+            "puzzleIndex": 36,
+            "keyRange": "800000000:fffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000009de820a7c",
+            "address": "1Be2UF9NLfyLFbtm3TCbmuocc9N1Kduci1"
+        },
+        {
+            "puzzleIndex": 37,
+            "keyRange": "1000000000:1fffffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000001757756a93",
+            "address": "14iXhn8bGajVWegZHJ18vJLHhntcpL4dex"
+        },
+        {
+            "puzzleIndex": 38,
+            "keyRange": "2000000000:3fffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000022382facd0",
+            "address": "1HBtApAFA9B2YZw3G2YKSMCtb3dVnjuNe2"
+        },
+        {
+            "puzzleIndex": 39,
+            "keyRange": "4000000000:7fffffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000004b5f8303e9",
+            "address": "122AJhKLEfkFBaGAd84pLp1kfE7xK3GdT8"
+        },
+        {
+            "puzzleIndex": 40,
+            "keyRange": "8000000000:ffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000000e9ae4933d6",
+            "address": "1EeAxcprB2PpCnr34VfZdFrkUWuxyiNEFv"
+        },
+        {
+            "puzzleIndex": 41,
+            "keyRange": "10000000000:1ffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000153869acc5b",
+            "address": "1L5sU9qvJeuwQUdt4y1eiLmquFxKjtHr3E"
+        },
+        {
+            "puzzleIndex": 42,
+            "keyRange": "20000000000:3ffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000002a221c58d8f",
+            "address": "1E32GPWgDyeyQac4aJxm9HVoLrrEYPnM4N"
+        },
+        {
+            "puzzleIndex": 43,
+            "keyRange": "40000000000:7ffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000006bd3b27c591",
+            "address": "1PiFuqGpG8yGM5v6rNHWS3TjsG6awgEGA1"
+        },
+        {
+            "puzzleIndex": 44,
+            "keyRange": "80000000000:fffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000000e02b35a358f",
+            "address": "1CkR2uS7LmFwc3T2jV8C1BhWb5mQaoxedF"
+        },
+        {
+            "puzzleIndex": 45,
+            "keyRange": "100000000000:1fffffffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000122fca143c05",
+            "address": "1NtiLNGegHWE3Mp9g2JPkgx6wUg4TW7bbk"
+        },
+        {
+            "puzzleIndex": 46,
+            "keyRange": "200000000000:3fffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000002ec18388d544",
+            "address": "1F3JRMWudBaj48EhwcHDdpeuy2jwACNxjP"
+        },
+        {
+            "puzzleIndex": 47,
+            "keyRange": "400000000000:7fffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000006cd610b53cba",
+            "address": "1Pd8VvT49sHKsmqrQiP61RsVwmXCZ6ay7Z"
+        },
+        {
+            "puzzleIndex": 48,
+            "keyRange": "800000000000:ffffffffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000000ade6d7ce3b9b",
+            "address": "1DFYhaB2J9q1LLZJWKTnscPWos9VBqDHzv"
+        },
+        {
+            "puzzleIndex": 49,
+            "keyRange": "1000000000000:1ffffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000174176b015f4d",
+            "address": "12CiUhYVTTH33w3SPUBqcpMoqnApAV4WCF"
+        },
+        {
+            "puzzleIndex": 50,
+            "keyRange": "2000000000000:3ffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000022bd43c2e9354",
+            "address": "1MEzite4ReNuWaL5Ds17ePKt2dCxWEofwk"
+        },
+        {
+            "puzzleIndex": 51,
+            "keyRange": "4000000000000:7ffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000075070a1a009d4",
+            "address": "1NpnQyZ7x24ud82b7WiRNvPm6N8bqGQnaS"
+        },
+        {
+            "puzzleIndex": 52,
+            "keyRange": "8000000000000:fffffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000000efae164cb9e3c",
+            "address": "15z9c9sVpu6fwNiK7dMAFgMYSK4GqsGZim"
+        },
+        {
+            "puzzleIndex": 53,
+            "keyRange": "10000000000000:1fffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000180788e47e326c",
+            "address": "15K1YKJMiJ4fpesTVUcByoz334rHmknxmT"
+        },
+        {
+            "puzzleIndex": 54,
+            "keyRange": "20000000000000:3fffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000000236fb6d5ad1f43",
+            "address": "1KYUv7nSvXx4642TKeuC2SNdTk326uUpFy"
+        },
+        {
+            "puzzleIndex": 55,
+            "keyRange": "40000000000000:7fffffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000006abe1f9b67e114",
+            "address": "1LzhS3k3e9Ub8i2W1V8xQFdB8n2MYCHPCa"
+        },
+        {
+            "puzzleIndex": 56,
+            "keyRange": "80000000000000:ffffffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000009d18b63ac4ffdf",
+            "address": "17aPYR1m6pVAacXg1PTDDU7XafvK1dxvhi"
+        },
+        {
+            "puzzleIndex": 57,
+            "keyRange": "100000000000000:1ffffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000001eb25c90795d61c",
+            "address": "15c9mPGLku1HuW9LRtBf4jcHVpBUt8txKz"
+        },
+        {
+            "puzzleIndex": 58,
+            "keyRange": "200000000000000:3ffffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000002c675b852189a21",
+            "address": "1Dn8NF8qDyyfHMktmuoQLGyjWmZXgvosXf"
+        },
+        {
+            "puzzleIndex": 59,
+            "keyRange": "400000000000000:7ffffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000007496cbb87cab44f",
+            "address": "1HAX2n9Uruu9YDt4cqRgYcvtGvZj1rbUyt"
+        },
+        {
+            "puzzleIndex": 60,
+            "keyRange": "800000000000000:fffffffffffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000000fc07a1825367bbe",
+            "address": "1Kn5h2qpgw9mWE5jKpk8PP4qvvJ1QVy8su"
+        },
+        {
+            "puzzleIndex": 61,
+            "keyRange": "1000000000000000:1fffffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000000013c96a3742f64906",
+            "address": "1AVJKwzs9AskraJLGHAZPiaZcrpDr1U6AB"
+        },
+        {
+            "puzzleIndex": 62,
+            "keyRange": "2000000000000000:3fffffffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000363d541eb611abee",
+            "address": "1Me6EfpwZK5kQziBwBfvLiHjaPGxCKLoJi"
+        },
+        {
+            "puzzleIndex": 63,
+            "keyRange": "4000000000000000:7fffffffffffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000007cce5efdaccf6808",
+            "address": "1NpYjtLira16LfGbGwZJ5JbDPh3ai9bjf4"
+        },
+        {
+            "puzzleIndex": 64,
+            "keyRange": "8000000000000000:ffffffffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000000f7051f27b09112d4",
+            "address": "16jY7qLJnxb7CHZyqBP8qca9d51gAjyXQN"
+        },
+        {
+            "puzzleIndex": 65,
+            "keyRange": "10000000000000000:1ffffffffffffffff",
+            "privateKey": "000000000000000000000000000000000000000000000001a838b13505b26867",
+            "address": "18ZMbwUFLMHoZBbfpCjUJQTCMCbktshgpe"
+        },
+        {
+            "puzzleIndex": 66,
+            "keyRange": "20000000000000000:3ffffffffffffffff",
+            "privateKey": "",
+            "address": "13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so"
+        },
+        {
+            "puzzleIndex": 67,
+            "keyRange": "40000000000000000:7ffffffffffffffff",
+            "privateKey": "",
+            "address": "1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9"
+        },
+        {
+            "puzzleIndex": 68,
+            "keyRange": "80000000000000000:fffffffffffffffff",
+            "privateKey": "",
+            "address": "1MVDYgVaSN6iKKEsbzRUAYFrYJadLYZvvZ"
+        },
+        {
+            "puzzleIndex": 69,
+            "keyRange": "100000000000000000:1fffffffffffffffff",
+            "privateKey": "",
+            "address": "19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG"
+        },
+        {
+            "puzzleIndex": 70,
+            "keyRange": "200000000000000000:3fffffffffffffffff",
+            "privateKey": "0000000000000000000000000000000000000000000000349b84b6431a6c4ef1",
+            "address": "19YZECXj3SxEZMoUeJ1yiPsw8xANe7M7QR"
+        },
+        {
+            "puzzleIndex": 75,
+            "keyRange": "4000000000000000000:7ffffffffffffffffff",
+            "privateKey": "0000000000000000000000000000000000000000000004c5ce114686a1336e07",
+            "address": "1J36UjUByGroXcCvmj13U6uwaVv9caEeAt"
+        },
+        {
+            "puzzleIndex": 80,
+            "keyRange": "80000000000000000000:ffffffffffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000000ea1a5c66dcc11b5ad180",
+            "address": "1BCf6rHUW6m3iH2ptsvnjgLruAiPQQepLe"
+        },
+        {
+            "puzzleIndex": 85,
+            "keyRange": "1000000000000000000000:1fffffffffffffffffffff",
+            "privateKey": "00000000000000000000000000000000000000000011720c4f018d51b8cebba8",
+            "address": "1Kh22PvXERd2xpTQk3ur6pPEqFeckCJfAr"
+        },
+        {
+            "puzzleIndex": 90,
+            "keyRange": "20000000000000000000000:3ffffffffffffffffffffff",
+            "privateKey": "000000000000000000000000000000000000000002ce00bb2136a445c71e85bf",
+            "address": "1L12FHH2FHjvTviyanuiFVfmzCy46RRATU"
+        },
+        {
+            "puzzleIndex": 95,
+            "keyRange": "400000000000000000000000:7fffffffffffffffffffffff",
+            "privateKey": "0000000000000000000000000000000000000000527a792b183c7f64a0e8b1f4",
+            "address": "19eVSDuizydXxhohGh8Ki9WY9KsHdSwoQC"
+        },
+        {
+            "puzzleIndex": 100,
+            "keyRange": "8000000000000000000000000:fffffffffffffffffffffffff",
+            "privateKey": "000000000000000000000000000000000000000af55fc59c335c8ec67ed24826",
+            "address": "1KCgMv8fo2TPBpddVi9jqmMmcne9uSNJ5F"
+        },
+        {
+            "puzzleIndex": 105,
+            "keyRange": "100000000000000000000000000:1ffffffffffffffffffffffffff",
+            "privateKey": "000000000000000000000000000000000000016f14fc2054cd87ee6396b33df3",
+            "address": "1CMjscKB3QW7SDyQ4c3C3DEUHiHRhiZVib"
+        },
+        {
+            "puzzleIndex": 110,
+            "keyRange": "2000000000000000000000000000:3fffffffffffffffffffffffffff",
+            "privateKey": "00000000000000000000000000000000000035c0d7234df7deb0f20cf7062444",
+            "address": "12JzYkkN76xkwvcPT6AWKZtGX6w2LAgsJg"
+        },
+        {
+            "puzzleIndex": 115,
+            "keyRange": "40000000000000000000000000000:7ffffffffffffffffffffffffffff",
+            "privateKey": "0000000000000000000000000000000000060f4d11574f5deee49961d9609ac6",
+            "address": "1NLbHuJebVwUZ1XqDjsAyfTRUPwDQbemfv"
+        }
+        
+    ]
+}
